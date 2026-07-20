@@ -1,0 +1,3 @@
+[submodule "Computación_Altas_Prestaciones/driverCAP"]
+	path = Computación_Altas_Prestaciones/driverCAP
+	url = https://github.com/martineh/driverCAP.git
